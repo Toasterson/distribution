@@ -10,9 +10,8 @@ require (
 	github.com/bitly/go-simplejson v0.5.0 // indirect
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/bshuster-repo/logrus-logstash-hook v0.4.1
-	github.com/bugsnag/bugsnag-go v0.0.0-20141110184014-b1d153021fcd
-	github.com/bugsnag/osext v0.0.0-20130617224835-0dd3f918b21b // indirect
-	github.com/bugsnag/panicwrap v0.0.0-20151223152923-e2c28503fcd0 // indirect
+	github.com/bugsnag/bugsnag-go v1.5.3
+	github.com/bugsnag/panicwrap v1.2.0 // indirect
 	github.com/denverdino/aliyungo v0.0.0-20190125010748-a747050bb1ba
 	github.com/dgrijalva/jwt-go v0.0.0-20170104182250-a601269ab70c // indirect
 	github.com/dnaeon/go-vcr v1.0.1 // indirect
@@ -20,14 +19,15 @@ require (
 	github.com/docker/go-metrics v0.0.1
 	github.com/docker/libtrust v0.0.0-20150114040149-fa567046d9b1
 	github.com/garyburd/redigo v0.0.0-20150301180006-535138d7bcd7
+	github.com/gofrs/uuid v3.2.0+incompatible // indirect
 	github.com/gorilla/handlers v0.0.0-20150720190736-60c7bfde3e33
 	github.com/gorilla/mux v1.7.2
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7 // indirect
+	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/marstr/guid v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.1.2
-	github.com/mitchellh/osext v0.0.0-20151018003038-5e2d6d41470f // indirect
 	github.com/ncw/swift v1.0.47
 	github.com/opencontainers/go-digest v1.0.0-rc1
 	github.com/opencontainers/image-spec v1.0.1
@@ -48,3 +48,5 @@ require (
 	gopkg.in/check.v1 v1.0.0-20141024133853-64131543e789
 	gopkg.in/yaml.v2 v2.2.2
 )
+
+replace github.com/bugsnag/panicwrap => github.com/Toasterson/panicwrap v1.2.1-0.20200330134625-69b16f7ec2ac

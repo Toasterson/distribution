@@ -47,12 +47,13 @@ github.com/aws/aws-sdk-go/service/sts
 github.com/beorn7/perks/quantile
 # github.com/bshuster-repo/logrus-logstash-hook v0.4.1
 github.com/bshuster-repo/logrus-logstash-hook
-# github.com/bugsnag/bugsnag-go v0.0.0-20141110184014-b1d153021fcd
+# github.com/bugsnag/bugsnag-go v1.5.3
 github.com/bugsnag/bugsnag-go
+github.com/bugsnag/bugsnag-go/device
 github.com/bugsnag/bugsnag-go/errors
-# github.com/bugsnag/osext v0.0.0-20130617224835-0dd3f918b21b
-github.com/bugsnag/osext
-# github.com/bugsnag/panicwrap v0.0.0-20151223152923-e2c28503fcd0
+github.com/bugsnag/bugsnag-go/headers
+github.com/bugsnag/bugsnag-go/sessions
+# github.com/bugsnag/panicwrap v1.2.0 => github.com/Toasterson/panicwrap v1.2.1-0.20200330134625-69b16f7ec2ac
 github.com/bugsnag/panicwrap
 # github.com/denverdino/aliyungo v0.0.0-20190125010748-a747050bb1ba
 github.com/denverdino/aliyungo/cdn/auth
@@ -72,6 +73,8 @@ github.com/garyburd/redigo/internal
 github.com/garyburd/redigo/redis
 # github.com/go-ini/ini v1.25.4
 github.com/go-ini/ini
+# github.com/gofrs/uuid v3.2.0+incompatible
+github.com/gofrs/uuid
 # github.com/golang/protobuf v1.3.2
 github.com/golang/protobuf/proto
 # github.com/gorilla/handlers v0.0.0-20150720190736-60c7bfde3e33
@@ -82,6 +85,8 @@ github.com/gorilla/mux
 github.com/inconshreveable/mousetrap
 # github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7
 github.com/jmespath/go-jmespath
+# github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
+github.com/kardianos/osext
 # github.com/konsorten/go-windows-terminal-sequences v1.0.1
 github.com/konsorten/go-windows-terminal-sequences
 # github.com/marstr/guid v1.1.0
