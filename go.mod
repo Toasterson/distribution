@@ -21,7 +21,7 @@ require (
 	github.com/garyburd/redigo v0.0.0-20150301180006-535138d7bcd7
 	github.com/gofrs/uuid v3.2.0+incompatible // indirect
 	github.com/gorilla/handlers v0.0.0-20150720190736-60c7bfde3e33
-	github.com/gorilla/mux v1.7.2
+	github.com/gorilla/mux v1.7.4
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7 // indirect
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
