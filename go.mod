@@ -46,7 +46,7 @@ require (
 	google.golang.org/cloud v0.0.0-20151119220103-975617b05ea8
 	google.golang.org/grpc v0.0.0-20160317175043-d3ddb4469d5a // indirect
 	gopkg.in/check.v1 v1.0.0-20141024133853-64131543e789
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
 
 replace github.com/bugsnag/panicwrap => github.com/Toasterson/panicwrap v1.2.1-0.20200330134625-69b16f7ec2ac
