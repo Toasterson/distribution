@@ -10,7 +10,7 @@ require (
 	github.com/bitly/go-simplejson v0.5.0 // indirect
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/bshuster-repo/logrus-logstash-hook v0.4.1
-	github.com/bugsnag/bugsnag-go v1.5.3
+	github.com/bugsnag/bugsnag-go v1.7.0
 	github.com/bugsnag/panicwrap v1.2.0 // indirect
 	github.com/denverdino/aliyungo v0.0.0-20190125010748-a747050bb1ba
 	github.com/dgrijalva/jwt-go v0.0.0-20170104182250-a601269ab70c // indirect
