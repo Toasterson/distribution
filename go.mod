@@ -28,7 +28,7 @@ require (
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/marstr/guid v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.1.2
-	github.com/ncw/swift v1.0.47
+	github.com/ncw/swift v1.0.53
 	github.com/opencontainers/go-digest v1.0.0-rc1
 	github.com/opencontainers/image-spec v1.0.1
 	github.com/satori/go.uuid v1.2.0 // indirect
